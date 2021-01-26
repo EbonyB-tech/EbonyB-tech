@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML && CSS 
 - 👯 I’m looking to collaborate on fun projects 
 - 💬 Ask me about my first passion project  🌈 
-- 📫 How to reach me: 
+
 
 
 
